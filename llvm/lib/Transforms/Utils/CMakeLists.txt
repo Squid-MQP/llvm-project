@@ -82,6 +82,7 @@ add_llvm_component_library(LLVMTransformUtils
   SanitizerStats.cpp
   SimplifyCFG.cpp
   SimplifyIndVar.cpp
+  MyPass.cpp
   SimplifyLibCalls.cpp
   SizeOpts.cpp
   SplitModule.cpp
